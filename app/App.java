@@ -25,7 +25,7 @@ public final class App {
     public String getGreeting() {
         return "Benvenuto nella battaglia navale per giocatore singolo.\n"
                 + "La difficoltà di default è impostata a facile.\n"
-                + "Per visualizzare i comandi digirate /help";
+                + "Per visualizzare i comandi digitare /help";
     }
 
     /**
